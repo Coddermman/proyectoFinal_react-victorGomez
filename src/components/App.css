@@ -1,0 +1,66 @@
+.estiloProductos{
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+
+}
+.estiloProducto{
+    width: 18rem;
+    margin: 5px;
+    background-color: rgb(53, 45, 13);
+    color: white;
+}
+
+.estiloCuerpo{
+    background-color: rgb(209, 196, 19);
+    margin-bottom: 5px;
+    text-align: center;
+}
+.estiloCuerpoDark {
+    background-color: rgb(54, 54, 44);
+    margin-bottom: 5px;
+    text-align: center;
+}
+.imagen{
+    margin-top: 5px;
+}
+.productoIndividual{
+    margin: 20px;
+}
+.textoEstilo{
+    color: beige;
+}
+.botonDeCompra{
+    margin-right: 10px;
+}
+.formulario{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color:blanchedalmond
+
+}
+.botSumit{
+    margin: 20px;
+}
+.darkMode{
+    background-color: black;
+    color:black;
+    
+}
+.cartContainer{
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+.divButtons button {
+    margin: 4px;
+}
+.cardCard {
+    max-width: 540 px;
+}
+.errorTexto{
+    display: none;
+    margin-top: 10px;
+    color:red;
+}
